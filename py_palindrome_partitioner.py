@@ -24,3 +24,5 @@ if __name__ == "__main__":
 	print(palindrome_partitioner("aab"))
 	print(palindrome_partitioner("aba"))
 	print(palindrome_partitioner("abc"))
+
+#confirmar q funcione con strings largos
